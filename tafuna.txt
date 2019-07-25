@@ -1,7 +1,8 @@
-var numero = prompt(C´est quoi ton plat preféré);
-Mbisi
+var numero = prompt(C´est quoi ton plat preféré de ta femme);
+Taba
 Madesu
 Fufu
 Loso
 Ngumba
 Semoule
+Salami
