@@ -1,5 +1,6 @@
 var numero = prompt(C´est quoi ton plat preféré);
 Mbisi
 Madesu
+Fufu
 Loso
 Ngumba
