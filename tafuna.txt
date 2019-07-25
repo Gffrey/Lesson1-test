@@ -6,3 +6,6 @@ Loso
 Ngumba
 Semoule
 Salami
+
+var plat = prompt("plat pour les enfants");
+Spaghetti et viande hachée
