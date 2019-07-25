@@ -1,4 +1,4 @@
-var numero = prompt(C´est quoi ton plat preféré de ta femme);
+var numero = prompt(C´est quoi les plats preféré de ta femme);
 Taba
 Madesu
 Fufu
