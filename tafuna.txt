@@ -1,0 +1,5 @@
+var numero = prompt(C´est quoi ton plat preféré);
+Mbisi
+Madesu
+Loso
+Ngumba
